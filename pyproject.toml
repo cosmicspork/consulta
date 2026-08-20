@@ -9,7 +9,7 @@ dependencies = [
     "sqlalchemy>=2.0,<3",
     "polars>=1.0,<2",
     "python-dotenv>=1.0",
-    "sqlparse>=0.5",
+    "sqlparse>=0.6.0",
     "oracledb>=2.0",
 ]
 
