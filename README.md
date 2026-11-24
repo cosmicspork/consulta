@@ -1,4 +1,6 @@
-# consulta
+# readonly-sql-runner
+
+> **Archived 2026-11.** Formerly `consulta`. Superseded by [sql-review](https://github.com/cosmicspork/sql-review), which keeps reads on a read-only database account and applies a write only after a person approves it. Kept as a reference and no longer maintained.
 
 A small, read-only SQL query runner built to be a safe database interface for
 agents and other automated callers. Connection details come from `.env`; the
